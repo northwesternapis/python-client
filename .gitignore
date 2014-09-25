@@ -1,0 +1,12 @@
+*.pyc
+*.local
+.idea
+.Python
+bin/
+include/
+lib/
+.DS_Store
+dist/
+nuapiclient.egg-info/
+.pypirc
+*.sw?
