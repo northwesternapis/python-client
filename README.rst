@@ -12,7 +12,7 @@ Requirements
 ------------
 
 -  `Python <http://www.python.org/>`__
--  `An API key <http://developer.asg.northwestern.edu/docs/#getting-started>`__
+-  `An API key <http://developer.asg.northwestern.edu/docs/>`__
 
 Installation
 ------------
